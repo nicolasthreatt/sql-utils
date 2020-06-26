@@ -1,0 +1,21 @@
+Structured Query Language
+    - Common language used by all relational databases management systems
+    - Used for data retrieval, data manipulation, and complex analysis
+    - Relational database management systems (RDBMS) vendors have extended the language to their needs
+    - Now different implementations are used across products
+
+Transact-SQL
+    - Used to perform actions on a SQL Server database
+    - Create new databases, tables, and other objects
+    - Add user accounts and modify access permissions
+    - Run maintenance tasks
+    - Query the database for infomation
+
+Querying a Database
+    - Querying is the process of retrieving stored data
+    - Allowing end users to turn that data into useful information
+    - Asking questions about the data
+
+Tables
+    - Isolated containers of data in a database
+    - Joining them together allows you to combine multiple data sets for more comprehensive results and analysis
